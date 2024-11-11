@@ -1,2 +1,4 @@
 get the user data
 modified data
+
+create Avatar for user
